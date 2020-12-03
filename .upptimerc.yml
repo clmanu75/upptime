@@ -12,7 +12,7 @@ status-website:
   cname: statuspage.clmanu.fr
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/clmanu75/img/master/web-analytics.svg
   name: Status Page
   introTitle: "**Monitoring**"
   introMessage: Monitor websites
