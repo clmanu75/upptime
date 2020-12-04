@@ -6,6 +6,8 @@ repo: upptime # Your Github repository name
 sites:
   - name: CCL Ergonomie
     url: https://www.cclergonomie.fr
+  - name: test
+    url: http://gcp.clmanu.fr:8000
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
