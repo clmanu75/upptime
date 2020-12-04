@@ -9,26 +9,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 679,
-    "timeDay": 523,
-    "timeWeek": 679,
-    "timeMonth": 679,
-    "timeYear": 679
-  },
-  {
-    "name": "test",
-    "url": "http://gcp.clmanu.fr:8000",
-    "slug": "test",
-    "status": "down",
-    "uptime": "27.04%",
-    "uptimeDay": "27.04%",
-    "uptimeWeek": "27.04%",
-    "uptimeMonth": "27.04%",
-    "uptimeYear": "27.04%",
-    "time": 337,
-    "timeDay": 337,
-    "timeWeek": 337,
-    "timeMonth": 337,
-    "timeYear": 337
+    "time": 691,
+    "timeDay": 599,
+    "timeWeek": 691,
+    "timeMonth": 691,
+    "timeYear": 691
   }
 ]
