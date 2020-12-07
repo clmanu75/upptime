@@ -2,6 +2,7 @@
   {
     "name": "CCL Ergonomie",
     "url": "https://www.cclergonomie.fr",
+    "icon": "https://favicons.githubusercontent.com/www.cclergonomie.fr",
     "slug": "ccl-ergonomie",
     "status": "up",
     "uptime": "100.00%",
@@ -9,10 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 699,
-    "timeDay": 781,
-    "timeWeek": 699,
-    "timeMonth": 699,
-    "timeYear": 699
+    "time": 688,
+    "timeDay": 603,
+    "timeWeek": 688,
+    "timeMonth": 688,
+    "timeYear": 688,
+    "dailyMinutesDown": {}
   }
 ]
