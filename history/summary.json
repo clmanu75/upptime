@@ -4,19 +4,19 @@
     "url": "https://www.cclergonomie.fr",
     "icon": "https://favicons.githubusercontent.com/www.cclergonomie.fr",
     "slug": "ccl-ergonomie",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 612,
-    "timeDay": 527,
-    "timeWeek": 631,
-    "timeMonth": 606,
-    "timeYear": 612,
+    "status": "up",
+    "uptime": "99.34%",
+    "uptimeDay": "68.96%",
+    "uptimeWeek": "95.57%",
+    "uptimeMonth": "98.98%",
+    "uptimeYear": "99.34%",
+    "time": 611,
+    "timeDay": 549,
+    "timeWeek": 624,
+    "timeMonth": 605,
+    "timeYear": 611,
     "dailyMinutesDown": {
-      "2021-01-19": 0
+      "2021-01-19": 447
     }
   }
 ]
