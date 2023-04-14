@@ -4,19 +4,19 @@
     "url": "https://www.cclergonomie.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.cclergonomie.fr.ico",
     "slug": "ccl-ergonomie",
-    "status": "down",
+    "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 1200,
-    "timeDay": 895,
-    "timeWeek": 1225,
+    "timeDay": 1100,
+    "timeWeek": 1235,
     "timeMonth": 1288,
     "timeYear": 1233,
     "dailyMinutesDown": {
-      "2023-04-14": 0,
+      "2023-04-14": 17,
       "2022-10-10": 35
     }
   }
