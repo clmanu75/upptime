@@ -1,7 +1,7 @@
 url: https://www.cclergonomie.fr
-status: up
-code: 200
-responseTime: 1530
-lastUpdated: 2026-02-18T23:33:11.104Z
+status: down
+code: 503
+responseTime: 316
+lastUpdated: 2026-02-19T14:34:24.902Z
 startTime: 2020-12-03T11:47:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
